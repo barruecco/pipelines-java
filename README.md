@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/barruecco0109/barruecco_test/_apis/build/status/barruecco.pipelines-java?branchName=master)]
+![Build Status](https://dev.azure.com/barruecco0109/barruecco_test/_apis/build/status/barruecco.pipelines-java?branchName=master)
 
 # Contributing
 
